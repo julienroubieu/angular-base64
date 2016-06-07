@@ -6,7 +6,7 @@
     "xelita <admin@xelita.com>"
   ],
   "description": "Base64 encoding and decoding service for AngularJS applications",
-  "main": "dist/angular-base64-codec.min.js",
+  "main": "dist/angular-base64-codec.js",
   "keywords": [
     "angular",
     "base64"
@@ -20,11 +20,11 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": "~1.2.3",
-    "angular-mocks": "~1.2.3",
+    "angular": "^1.2.3",
+    "angular-mocks": "^1.2.3",
     "jquery": "~2.1.1"
   },
   "dependencies": {
-    "angular": "~1.2.3"
+    "angular": "^1.2.3"
   }
 }
